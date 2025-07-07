@@ -1,13 +1,13 @@
 {
-  "name": "Liên Quân Việt Hoá",
+  "name": "Repo ModSkin WeansHHN",
   "mods": [
     {
       "name": "Bijan",
-      "description": "Skin đẹp nhẹ nhàng",
+      "description": "Skin đẹp",
       "download_url": "https://github.com/WeansHHN/ModSkinFile/raw/refs/heads/main/ModSkin/Bijan.zip"
     },
     {
-      "name": "Hayate Samurai",
+      "name": "Hayate",
       "description": "Chiến binh bóng đêm",
       "download_url": "https://example.com/hayate.zip"
     }
