@@ -1,14 +1,14 @@
 [
   {
-    "name": "Mod Skin Nakroth",
-    "description": "Trang phục siêu cấp vip",
-    "url": "https://example.com/nakroth.zip",
-    "icon": "https://example.com/nakroth_icon.png"
+    "name": "Mod Nakroth Quán Quân",
+    "url": "https://example.com/mods/nakroth.zip"
   },
   {
-    "name": "Mod Skin Tel'Annas",
-    "description": "Skin anime cực đẹp",
-    "url": "https://example.com/telannas.zip",
-    "icon": "https://example.com/telannas_icon.png"
+    "name": "Mod Violet Thỏ Ngọc",
+    "url": "https://example.com/mods/violet.zip"
+  },
+  {
+    "name": "Mod Murad Siêu Việt",
+    "url": "https://example.com/mods/murad.zip"
   }
 ]
