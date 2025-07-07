@@ -1,12 +1,15 @@
-[
-  {
-    "name": "Mod Batman",
-    "description": "Skin Batman siêu ngầu",
-    "download_url": "https://example.com/batman-skin.zip"
-  },
-  {
-    "name": "Mod Superman",
-    "description": "Trang phục Siêu Nhân",
-    "download_url": "https://example.com/superman-skin.zip"
-  }
-]
+{
+  "name": "Liên Quân Việt Hoá",
+  "mods": [
+    {
+      "name": "Airi Sakura",
+      "description": "Skin đẹp nhẹ nhàng",
+      "download_url": "https://example.com/airi.zip"
+    },
+    {
+      "name": "Hayate Samurai",
+      "description": "Chiến binh bóng đêm",
+      "download_url": "https://example.com/hayate.zip"
+    }
+  ]
+}
