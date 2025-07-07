@@ -1,4 +1,14 @@
-{
-  "modFullLink": "https://github.com/WeansHHN/ModSkinFile/releases/download/ModSkinFiles/ModSkinFull.zip",
-  "backupLink": "https://github.com/WeansHHN/ModSkinFile/releases/download/ModSkinFiles/backup.zip"
-}
+[
+  {
+    "name": "Mod Skin Nakroth",
+    "description": "Trang phục siêu cấp vip",
+    "url": "https://example.com/nakroth.zip",
+    "icon": "https://example.com/nakroth_icon.png"
+  },
+  {
+    "name": "Mod Skin Tel'Annas",
+    "description": "Skin anime cực đẹp",
+    "url": "https://example.com/telannas.zip",
+    "icon": "https://example.com/telannas_icon.png"
+  }
+]
