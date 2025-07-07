@@ -1,14 +1,12 @@
 [
   {
-    "name": "Mod Nakroth Quán Quân",
-    "url": "https://example.com/mods/nakroth.zip"
+    "name": "Mod Batman",
+    "description": "Skin Batman siêu ngầu",
+    "download_url": "https://example.com/batman-skin.zip"
   },
   {
-    "name": "Mod Violet Thỏ Ngọc",
-    "url": "https://example.com/mods/violet.zip"
-  },
-  {
-    "name": "Mod Murad Siêu Việt",
-    "url": "https://example.com/mods/murad.zip"
+    "name": "Mod Superman",
+    "description": "Trang phục Siêu Nhân",
+    "download_url": "https://example.com/superman-skin.zip"
   }
 ]
